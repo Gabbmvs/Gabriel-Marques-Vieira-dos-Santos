@@ -1,4 +1,4 @@
-# 🐍👨🏻‍💻Gabriel Marques
+# 👨🏻‍💻Gabriel Marques
 **`Desenvolvedor Backend`**
 Me chamo Gabriel Marques e sou desenvolvedor backend em formação. Pretendo cursar Análise e Desenvolvimento de Sistemas (ADS) e, futuramente, realizar uma pós-graduação em Desenvolvimento de Software. Publico aqui, de forma constante, códigos desenvolvidos durante meus estudos e cursos. Este repositório acompanha minha jornada entre uploads, erros e aprendizados ao longo do caminho.
 
