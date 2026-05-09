@@ -19,7 +19,7 @@ Me chamo Gabriel Marques e sou desenvolvedor backend em formação. Pretendo cur
  title = "C"
  width = "40px"
  style = "padding-r-right: 10px;"
- src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)" 
+ src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/C_Language_Logo.svg/960px-C_Language_Logo.svg.png" 
  />
 
  <br/>
